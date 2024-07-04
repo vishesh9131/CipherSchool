@@ -1,0 +1,8 @@
+In this lecture, we will explore various time and date manipulation functions that are essential for handling temporal data in your datasets. Understanding and effectively using these functions can greatly enhance your ability to analyze and interpret data that involves dates and times. Temporal data is a common component in many datasets, and being able to manipulate this data accurately is crucial for tasks such as trend analysis, forecasting, and time-based reporting.
+Some Commands:
+• DATE
+• DAY
+• EDATE
+• WEEKDAY
+• HOUR
+• MINUTE

@@ -1,0 +1,33 @@
+Lecture 5 - Google Colab Notebook Overview
+
+Introduction to Google Colab:
+Google Colab, a free cloud-based service, offers users the ability to write and execute Python code directly through their web browsers. This platform is particularly advantageous for those who want to leverage the power of cloud computing without the hassle of setting up a local environment. With Google Colab, users can seamlessly run their code, access powerful computational resources like GPUs and TPUs, and share their work effortlessly with others.
+
+Key Features:
+One of the standout features of Google Colab is that it requires no setup, making it incredibly user-friendly, especially for beginners. Additionally, it provides free access to high-performance GPUs and TPUs, which can significantly speed up computational tasks. The platform also facilitates easy sharing of notebooks, allowing for smooth collaboration and dissemination of work.
+
+***********************************************************************************
+
+Setting Up Your Environment
+
+How to Access Google Colab:
+Accessing Google Colab is straightforward; users can simply navigate to the platform through any web browser. For enhanced convenience, Google Colab can be linked with Google Drive, enabling easy access to files and seamless integration with other Google services.
+  • Directly through a web browser
+  • Link with Google Drive for easy file access
+
+Basic Setup:
+  • Starting a new notebook
+  • Importing libraries
+  • Loading data from Google Drive
+
+*************************************************************************************
+
+Collaborating in Colab
+
+Features for Collaboration:
+  • Real-time document editing similar to Google Docs
+  • Commenting and sharing options
+
+Best Practices for Team Projects:
+  • Managing versions
+  • Sharing notebooks with team members

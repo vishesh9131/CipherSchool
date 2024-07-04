@@ -1,0 +1,12 @@
+In this lecture, we will explore various time and date manipulation functions that are essential for handling temporal data in your datasets. Understanding and effectively using these functions can greatly enhance your ability to analyze and interpret data that involves dates and times. Temporal data is a common component in many datasets, and being able to manipulate this data accurately is crucial for tasks such as trend analysis, forecasting, and time-based reporting.
+
+One of the fundamental functions in this category is the DATE function. This function allows you to create a date value from individual year, month, and day components. It is particularly useful when you need to construct dates from separate fields or when you need to ensure that dates are in a consistent format across your dataset. By using the DATE function, you can avoid common issues related to date formatting and ensure that your date values are accurate and standardized.
+
+The DAY function is another important tool for working with dates. It extracts the day component from a date value, allowing you to isolate and analyze specific days within your dataset. This can be useful for tasks such as identifying patterns or trends that occur on particular days of the month. Similarly, the EDATE function enables you to calculate a date that is a specified number of months before or after a given date. This function is invaluable for tasks such as calculating due dates, expiration dates, or other time-based intervals.
+Some Commands:
+• DATE
+• DAY
+• EDATE
+• WEEKDAY
+• HOUR
+• MINUTE

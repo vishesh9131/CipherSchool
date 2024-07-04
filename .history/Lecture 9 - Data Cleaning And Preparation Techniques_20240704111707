@@ -1,0 +1,14 @@
+In this lecture, we will delve into various data cleaning and preparation techniques that are essential for ensuring the quality and accuracy of your data. Data cleaning is a crucial step in the data analysis process, as it helps to remove inconsistencies, errors, and redundancies from your dataset. By employing these techniques, you can transform raw data into a more structured and usable format, which is vital for accurate analysis and decision-making.
+Few Functions:
+• TRIM
+• SPLIT
+• PROPER
+• IF
+• UPPER
+• IFERROR
+• LOWER
+• LEFT
+• MID
+• RIGHT
+• CONCATENATE
+• TEXTJOIN
