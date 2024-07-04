@@ -1,5 +1,5 @@
 # Ignore the history directory
-history/
+.history/
 
 # Other files and directories to ignore
 *.log
