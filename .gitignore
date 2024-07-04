@@ -1,0 +1,8 @@
+# Ignore the history directory
+history/
+
+# Other files and directories to ignore
+*.log
+*.tmp
+
+dist/
